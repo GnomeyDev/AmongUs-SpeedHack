@@ -1,0 +1,14 @@
+C:\Users\quuck\source\repos\AmongUs hacks\bin\Release\AmongUs hacks.exe.config
+C:\Users\quuck\source\repos\AmongUs hacks\bin\Release\AmongUs hacks.exe
+C:\Users\quuck\source\repos\AmongUs hacks\bin\Release\AmongUs hacks.pdb
+C:\Users\quuck\source\repos\AmongUs hacks\bin\Release\Memory.dll
+C:\Users\quuck\source\repos\AmongUs hacks\bin\Release\Memory.xml
+C:\Users\quuck\source\repos\AmongUs hacks\obj\Release\AmongUs hacks.csproj.AssemblyReference.cache
+C:\Users\quuck\source\repos\AmongUs hacks\obj\Release\AmongUs hacks.csproj.SuggestedBindingRedirects.cache
+C:\Users\quuck\source\repos\AmongUs hacks\obj\Release\AmongUs_hacks.Form1.resources
+C:\Users\quuck\source\repos\AmongUs hacks\obj\Release\AmongUs_hacks.Properties.Resources.resources
+C:\Users\quuck\source\repos\AmongUs hacks\obj\Release\AmongUs hacks.csproj.GenerateResource.cache
+C:\Users\quuck\source\repos\AmongUs hacks\obj\Release\AmongUs hacks.csproj.CoreCompileInputs.cache
+C:\Users\quuck\source\repos\AmongUs hacks\obj\Release\AmongUs hacks.csproj.CopyComplete
+C:\Users\quuck\source\repos\AmongUs hacks\obj\Release\AmongUs hacks.exe
+C:\Users\quuck\source\repos\AmongUs hacks\obj\Release\AmongUs hacks.pdb
